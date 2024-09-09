@@ -1,7 +1,7 @@
 # DFIR
 Welcome to the SHD DFIR Repo
 
-![SHD Logo](https://github.com/SHDSecOps/SHDSecOps/blob/main/shd-secops%20350px%20round%20trans.png)
+![SHD Logo](https://github.com/SHDSecOps/SHDSecOps/blob/main/shd-ir%20350px%20round%20trans.png)
 
 This Repo contains public scripts that we find handy in DFIR Cases. 
 They are by no means perfect, since are not software developer - but they worked for us at least once.
