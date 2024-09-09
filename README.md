@@ -7,18 +7,17 @@ This Repo contains public scripts that we find handy in DFIR Cases.
 They are by no means perfect, since are not software developer - but they worked for us at least once.
 We tried to make them as readable as we could.
 
-
-
 # Principles
 While developing there were some principles:
-- cleartext language - so no compiled stuff. Sometimes you only can copy/paste stuff via text
-- function > form
+- Cleartext language
+  - no compiled stuff if possible
+  - Sometimes you only can copy/paste stuff via text to the victim
+- function > form  
 - a dummy needs do work with this
 
 *If you have any suggestions or tips - contact us SHDSecOps@shd-online.de.*
 
 # Content
-
 ### Decode-PSEventlogCommands
 Searches for encoded command exections in a Powershell Operational Eventlog and tries to decode it
 ### Export-EventlogToCsv
