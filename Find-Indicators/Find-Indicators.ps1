@@ -2,6 +2,7 @@
 .SYNOPSIS
     Mike Beckert (SHD) 2024
     This Script returns all Indicators (e.g. IPs) from a given String, File, Folder or Log
+    IMPORTANT: THIS SCRIPT IS DEPRECATED - USE NEW IOCExtractor!
 .DESCRIPTION
     This Script searches for all IPs, Mac,Mailaddresses,URLs or custom pattern in a given Input via RegEx.
 
