@@ -19,23 +19,23 @@ While developing there were some principles:
 
 # Content
 
-## Decode-PSEventlogCommands
+### Decode-PSEventlogCommands
 Searches for encoded command exections in a Powershell Operational Eventlog and tries to decode it
-## Export-EventlogToCsv
+### Export-EventlogToCsv
 This Script exports specified Eventlog to csv
-## Find-Indicators (deprecated)
+### Find-Indicators (deprecated)
 This Script returns all Indicators (e.g. IPs) from a given String, File, Folder or Log
-## Get-ExecutableFiles
+### Get-ExecutableFiles
 Returns all Executable Files of a given FolderPath
-## Get-LogonLogoffEvents
+### Get-LogonLogoffEvents
 Parses Security Eventlog for successful Logons/Logoffs and matches on LogonIDs
-## Get-ScheduledTaskModifications
+### Get-ScheduledTaskModifications
 Searches for modified Scheduled Tasks in Security Eventlog
-## IOCExtractor
+### IOCExtractor
 Starts UI for IOC Extraction from a given String or File
-## Invoke-VTReport
+### Invoke-VTReport
 Tests the given String Array against VT and returns a formatted table sorted by malicious analysis count.
-## Purge-KerbTicketsLocal
+### Purge-KerbTicketsLocal
 This script will purge all cached Kerberos tickets on the local computer for all sessions (whether interactive, network or other sessions).
 
 
