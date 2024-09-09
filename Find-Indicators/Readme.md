@@ -1,3 +1,6 @@
+## IMPORTANT: THIS SCRIPT IS DEPRECATED - USE NEW IOCExtractor!
+It still works fine, but the new IOCExtractor has a GUI 😎
+
 # Find-Indicators
 Mike Beckert (SHD) 2024
 This Script returns all Indicators (e.g. IPs) from a given String, File, Folder or Log
